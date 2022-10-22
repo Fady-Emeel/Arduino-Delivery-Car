@@ -5,4 +5,4 @@ The car stores the movements in an array till the user presses reverse.
 
 When the user finishes and presses reverse the car moves back in the same path back to the start point again
 
-Tools used: Arduino IDE, Arduino UNO, Breadboard, Car Chassis Kit
+Tools used: Arduino IDE, Arduino UNO, Bluetooth module, Breadboard, Car Chassis Kit
